@@ -1,0 +1,31 @@
+{
+  "tracks": [
+    {
+      "number": 1,
+      "title": "Midnight Blue",
+      "artist": "DJ Azure",
+      "artist_image": "https://yourname.github.io/blue-club-data/images/artist_01.png",
+      "artist_profile": "東京を拠点に活動するDJ。深夜帯のアンビエント・テクノが得意。",
+      "comment": "青色クラブのオープニングを飾る一曲。",
+      "jacket_image": "https://yourname.github.io/blue-club-data/images/jacket_01.png"
+    },
+    {
+      "number": 2,
+      "title": "Deep Dive",
+      "artist": "Cobalt Sound",
+      "artist_image": "https://yourname.github.io/blue-club-data/images/artist_02.png",
+      "artist_profile": "大阪出身のプロデューサー。ディープハウスを中心に制作。",
+      "comment": "フロアの温度が上がり始める2曲目。",
+      "jacket_image": "https://yourname.github.io/blue-club-data/images/jacket_02.png"
+    },
+    {
+      "number": 3,
+      "title": "Neon Drift",
+      "artist": "Indigo Wave",
+      "artist_image": "https://yourname.github.io/blue-club-data/images/artist_03.png",
+      "artist_profile": "VRChat上で活動するバーチャルDJ。シンセウェイブ系。",
+      "comment": "ネオンの光が揺れるような浮遊感のあるトラック。",
+      "jacket_image": "https://yourname.github.io/blue-club-data/images/jacket_03.png"
+    }
+  ]
+}
